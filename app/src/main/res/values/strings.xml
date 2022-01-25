@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tamir\'s ultra amazing Dice Roller</string>
+    <string name="roll">Let\'s roll!</string>
+    <string name="more_roll">Let\'s roll again!</string>
+</resources>
